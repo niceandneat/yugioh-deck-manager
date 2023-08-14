@@ -1,0 +1,7 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="50" fill="#000000" />
+  <circle cx="50" cy="50" r="46" fill="#FF0000" />
+  <circle cx="50" cy="50" r="34" fill="#000000" />
+  <path d="M 0 6 A 1 1 0 0 1 12 6 C 12 11 8 12 4 17 L 12 17 L 12 20 L 0 20 C 0 12 9 11 9 6 A 1 1 0 0 0 3 6 L 0 6"
+    transform="scale(2.5) translate(14, 9)" fill="#FECE00" />
+</svg>

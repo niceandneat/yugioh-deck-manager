@@ -46,7 +46,7 @@ node scripts/download_cards.js data/
 
 **Option 1 - Release 페이지에서 다운로드**
 
-[Release]() 페이지에서 `images.zip` 파일을 다운로드 받고 `public/` 폴더에 압축을 풉니다.
+[Release](https://github.com/niceandneat/yugioh-deck-manager/releases/tag/v0.1.0) 페이지에서 `images.zip` 파일을 다운로드 받고 `public/` 폴더에 압축을 풉니다.
 
 **Option 2 - 스크립트 파일로 직접 다운로드**
 
@@ -76,7 +76,7 @@ node scripts/download_bans.js data/
 
 ### 실행
 
-준비물: Node.js v16.8+
+준비물: [Node.js](https://nodejs.org/en/download) v16.8+
 
 ```sh
 # Build

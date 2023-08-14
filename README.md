@@ -1,5 +1,7 @@
 # Yu-Gi-Oh Deck Manager
 
+Translations: [한국어](README_KR.md)
+
 Manage your Yu-Gi-Oh deck in a local environment.
 
 ## Feature
@@ -46,7 +48,7 @@ This file will be used as a reference to check the card ID of the deck.
 
 **Option 1 - Download from the Release page**
 
-Download the `images.zip` file from the [Release]() page and unzip it in the `public/` directory.
+Download the `images.zip` file from the [Release](https://github.com/niceandneat/yugioh-deck-manager/releases/tag/v0.1.0) page and unzip it in the `public/` directory.
 
 **Option 2 - Direct download via script file**
 
@@ -76,7 +78,7 @@ If you're using a non-English translated `data/cards.json` file (like I am), you
 
 ### Execution
 
-Prerequisites: Node.js v16.8+
+Prerequisites: [Node.js](https://nodejs.org/en/download) v16.8+
 
 ```bash
 # Build
